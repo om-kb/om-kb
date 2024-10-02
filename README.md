@@ -1,3 +1,1 @@
 - 👋 Hi, I’m @om-kb
-- 🌱 I’m currently learning python 
-- 📫 reach me @ 7338623350
